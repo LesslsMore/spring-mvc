@@ -3,3 +3,5 @@
 *.rar
 *.pdf
 # *.rar
+!01-spring/*/代码/**.*
+!02-springmvc/*/源码/**.*
